@@ -3,7 +3,7 @@
 ## LLM Provider
 
 **Provider:** Google Gemini  
-**Model:** `gemini-2.0-flash`  
+**Model:** `gemini-2.0-flash-lite`  
 **SDK:** `@google/generative-ai` (Node.js)
 
 ### Why Gemini?
@@ -15,7 +15,7 @@
 
 ### Token / Cost Considerations
 
-- Gemini 2.0 Flash is free for up to 15 RPM / 1M TPD on the free tier
+- Gemini 2.0 Flash Lite is free for up to 15 RPM / 1M TPD on the free tier
 - Average transcript processing uses ~500-2000 input tokens and ~200-500 output tokens
 - Well within free tier limits for internal tool usage
 - For higher throughput, the paid tier is cost-effective (~$0.075 / 1M input tokens)
