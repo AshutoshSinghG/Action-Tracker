@@ -34,10 +34,10 @@ Core Concepts: DSA, System Design, Authentication, SaaS Development, Real-Time S
 
 
 ## EDUCATION
-National Institute of Technology Karnataka (NITK)        Aug 2022 – June 2025
-Master of Computer Applications (MCA) Surathkal, Karnataka
-Magadh University, Bodh-Gaya        Aug 2018 – June 2022
-Bachelor of Computer Applications (BCA) Bodh-Gaya, Bihar
+### National Institute of Technology Karnataka (NITK) (Aug 2022 – June 2025)
+- Master of Computer Applications (MCA)
+### Magadh University, Bodh-Gaya (Aug 2018 – June 2022)
+- Bachelor of Computer Applications (BCA)
 
 
 ## PROJECTS
