@@ -1,7 +1,7 @@
 
 
 ## ASHUTOSH KUMAR
-Aurangabad, Bihar | +91 7004129820 |   erashutoshji@gmail.com | Ashutoshkumar-me  | Portfolio | AshutoshSinghG
+Aurangabad, Bihar | +91 7004129820 |   erashutoshji@gmail.com |Linkedin- Ashutoshkumar-me | Github- AshutoshSinghG
 
 ## PROFESSIONAL SUMMARY
 Full Stack Developer Intern and AI Enthusiast with hands-on experience in building SaaS-based, real-time web applications using the MERN
@@ -11,15 +11,15 @@ applications on AWS, Docker, and CI/CD pipelines. Passionate about developing in
 
 ## PROFESSIONAL EXPERIENCE
 Full Stack Developer Intern – Techtuality Pvt Ltd  (Sept. 2025 - Dec 2025)
-● Designed, developed, and deployed SaaS-based, real-time web applications using MERN (MongoDB, Express, React, Node), PostgreSQL.
+- Designed, developed, and deployed SaaS-based, real-time web applications using MERN (MongoDB, Express, React, Node), PostgreSQL.
 and Developed backend utilities and automation scripts in Java. And perform , Test Documentation,Test Cases, Regression Testing,
 Performance Testing and Bug Tracking (JIRA / Bugzilla).
-● Built and optimized Socket.io and WebRTC-based features for live chat, real-time collaboration, and video conferencing.
-● Implemented microservice architecture and modular APIs to ensure scalability and maintainability.
-● Collaborated with cross-functional teams to deliver high-performance, responsive web interfaces using React, Tailwind, and Next.js.
-● Integrated third-party APIs and payment systems (Razorpay, OAuth2, Clerk Auth) to extend core functionality.
-● Automated deployments using Docker containers and CI/CD pipelines (GitHub Actions), improving release efficiency by 40%.
-● Participated in Agile sprints, handled version control using Git, and contributed to peer code reviews to maintain best coding practices.
+- Built and optimized Socket.io and WebRTC-based features for live chat, real-time collaboration, and video conferencing.
+- Implemented microservice architecture and modular APIs to ensure scalability and maintainability.
+- Collaborated with cross-functional teams to deliver high-performance, responsive web interfaces using React, Tailwind, and Next.js.
+- Integrated third-party APIs and payment systems (Razorpay, OAuth2, Clerk Auth) to extend core functionality.
+- Automated deployments using Docker containers and CI/CD pipelines (GitHub Actions), improving release efficiency by 40%.
+- Participated in Agile sprints, handled version control using Git, and contributed to peer code reviews to maintain best coding practices.
 Tech Stack: MERN, PostgreSQL, TypeScript, Tailwind CSS, AWS, Docker, GitHub Actions, Next.js, Postman, Socket.io, WebRTC, RESTful APIs
 
 
